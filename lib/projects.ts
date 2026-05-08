@@ -211,7 +211,7 @@ export const projects: Project[] = [
           {
             type: 'link',
             content: 'Click here to view the interactive prototype',
-            href: 'https://www.figma.com/proto/M4zz8nZaSzn6EtFksH0CqN/Partiu---travel-planner?node-id=26-805&p=f&t=Ad6b8aKZlVA0lz93-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=26%3A444',
+            href: 'https://www.figma.com/proto/M4zz8nZaSzn6EtFksH0CqN/Partiu---travel-planner?node-id=26-805&p=f&t=Vn61tbL5MAZhj0vX-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=26%3A444',
           },
           {
             type: 'image-grid',
