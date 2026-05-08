@@ -6,6 +6,9 @@ export const metadata: Metadata = {
   title: 'Vanessa Zaremba — UX/UI Designer',
   description:
     'UX/UI Designer with a Frontend Background. 5+ years designing interfaces across finance and product. Currently freelancing.',
+    icons: {
+      icon: "/favicon.ico",
+  },
   openGraph: {
     title: 'Vanessa Zaremba — UX/UI Designer',
     description:
